@@ -40,7 +40,7 @@
                   <Font size="37.0" />
                </font>
             </Button>
-            <Button fx:id="button_1" mnemonicParsing="false" onAction="#CB_0" prefHeight="100.0" prefWidth="100.0" text="0" GridPane.rowIndex="4">
+            <Button fx:id="button_0" mnemonicParsing="false" onAction="#CB_0" prefHeight="100.0" prefWidth="100.0" text="0" GridPane.rowIndex="4">
                <font>
                   <Font size="37.0" />
                </font>

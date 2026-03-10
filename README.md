@@ -20,11 +20,11 @@ JavaFX と Maven を使用して作成された、シンプルな電卓アプリ
 コマンドライン、または Eclipse の Git 機能などからリポジトリをクローンします。
 
 ```bash
-git clone https://github.com/あなたのユーザー名/Calculator.git
+git clone https://github.com/zuraki-0105/Calculator.git
 ```
 
-### 2. Eclipse へのインポート
-1. Eclipse を起動し、メニューから **ファイル (File)** > **インポート (Import)** を選択します。
+### 2. インポート
+1. IDE を起動し、メニューから **ファイル (File)** > **インポート (Import)** を選択します。
 2. **Maven** > **既存の Maven プロジェクト (Existing Maven Projects)** を選択し、「次へ」をクリックします。
 3. 「ルート・ディレクトリー (Root Directory)」に、今クローンした `Calculator` フォルダを選択します。
 4. `pom.xml` にチェックが入っていることを確認し、「完了 (Finish)」をクリックします。
